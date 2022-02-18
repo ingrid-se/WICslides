@@ -4,7 +4,7 @@ Xaringan theme for html presentations using WIC colors
 
 ## Example
 
-Example presentation [here](https://ingrid-se.github.io/WIC/)
+Example presentation [here](https://ingrid-se.github.io/WIC/index.Rmd)
 
 ## Documentation
 
